@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aylenlarco
-- 👀 I’m interested in Front-end Development and UX/UI Design...
+- 👀 Siempre me apasionaron a las artes visuales. Me encanta diseñar e ir adquiriendo nuevas herramientas y metodologías. Hoy me dedico al diseño ux/ui, aprendiendo día a día a mejorar la experiencia de los usuarios en productos digitales. Disfruto mucho el trabajo en equipo, recibir feedback de mis compañeros y ayudar. Quiero seguir creciendo en mi carrera profesional y pulir mis habilidades.
 - 📫 How to reach me aylenlarco@gmail.com...
 
 <!---
