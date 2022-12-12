@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aylenlarco
-- 👀 Siempre me apasionaron a las artes visuales. Me encanta diseñar e ir adquiriendo nuevas herramientas y metodologías. Hoy me dedico al diseño ux/ui, aprendiendo día a día a mejorar la experiencia de los usuarios en productos digitales. Disfruto mucho el trabajo en equipo, recibir feedback de mis compañeros y ayudar. Quiero seguir creciendo en mi carrera profesional y pulir mis habilidades.
+- 👀 Siempre me apasionaron las artes visuales, con el tiempo me interioricé  en el ámbito digital y hoy en día estudio diseño multimedial. Disfruto mucho adquirir nuevas herramientas,  metodologías y conocimientos. Me dedico al diseño ux/ui, aprendiendo día a día a mejorar la experiencia de los usuarios. Me llevo bien con el trabajo en equipo, recibir feedback de mis compañeros y colaborar.
 - 📫 How to reach me aylenlarco@gmail.com...
 
 <!---
