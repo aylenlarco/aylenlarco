@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aylenlarco
-- 👀 ¡Hola! Soy Aylén, artista visual y diseñadora multimedial con trayectoria laboral en diseño de experiencia de usuario. Me apasiona crear soluciones creativas y funcionales a través de interfaces, con el objetivo de hacerlas accesibles y atractivas para las personas. También disfruto realizar composiciones digitales y artísticas. Siempre buscando feedback para lograr el mejor resultado posible, ya sea trabajando en equipo o de forma individual.
+- 👀 ¡Hola! Soy Aylén, apasionada del diseño y el arte, siempre en busca de superarme y aprender. Con una amplia trayectoria en diseño de experiencia del usuario, mi objetivo es crear soluciones creativas y funcionales a través de interfaces accesibles y atractivas. Busco avanzar en mi carrera junto a otros diseñadores, con amor por mi trabajo y proactividad ante nuevos desafíos y objetivos.
 - 📫 How to reach me aylenlarco@gmail.com...
 
 <!---
