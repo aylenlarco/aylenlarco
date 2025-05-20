@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aylenlarco
-- 👀 ¡Hola! Soy Aylén, apasionada del diseño y el arte, siempre en busca de superarme y aprender. Con una amplia trayectoria en diseño de experiencia del usuario, mi objetivo es crear soluciones creativas y funcionales a través de interfaces accesibles y atractivas. Busco avanzar en mi carrera junto a otros diseñadores, con amor por mi trabajo y proactividad ante nuevos desafíos y objetivos.
+- 👀 ¡Hola! Mi nombre es Aylén, Diseñadora UX/UI, Diseñadora Gráfica Digital y UI Developer. Me apasiona combinar arte, diseño y tecnología para crear experiencias digitales que sean tanto estéticas como funcionales. Con experiencia en grandes empresas y startups, disfruto colaborar en equipos multidisciplinarios para desarrollar interfaces intuitivas y soluciones innovadoras. Me motiva aportar creatividad, aprender continuamente y contribuir al crecimiento de cada proyecto.
 - 📫 How to reach me aylenlarco@gmail.com...
 
 <!---
