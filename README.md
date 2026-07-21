@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aylenlarco
-- 👀 Diseñadora UX/UI con más de 4 años de experiencia trabajando productos digitales, liderando desde la investigación de usuarios hasta la definición de soluciones junto a negocio y tecnología. Actualmente estoy formándome como Analista Funcional, aplicando mis conocimientos en desarrollo web y UX para traducir necesidades de negocio en decisiones de producto.
+- 👀 Diseñadora de experiencias con más de 4 años liderando el ciclo completo de diseño de producto: desde research y definición del problema hasta ejecución y validación. Combino pensamiento estratégico con ejecución técnica, trabajando junto a negocio y desarrollo para llevar soluciones de la idea a producción.
 - 📫 How to reach me aylenlarco@gmail.com...
 
 <!---
