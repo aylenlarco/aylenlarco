@@ -1,8 +1,12 @@
 -¡Hola! Soy Aylén, UX/Product Designer 👋
  
-Con 4+ años de experiencia, trabajé ciclos end-to-end de diseño para diferentes clientes. Me especializo en plataformas B2B, B2C, SaaS, dashboards complejos y productos digitales de gran escala. 
+Diseño, arte y tecnología son mis tres pilares.
 
-Me apasiona colaborar con equipos multidisciplinarios y traducir datos en soluciones que realmente resuelvan tanto el problema del usuario como del negocio. Lograr que sean fáciles de utilizar, no solo que se vean bien. También me gusta diseñar pensando en cómo se construye, mi background en frontend (HTML, CSS, React) me da esa mirada integral. 
+Cuento con 4+ años de experiencia en ciclos end-to-end de diseño para diferentes clientes. Me especializo en plataformas B2B, B2C, SaaS, dashboards complejos y productos digitales de gran escala. Puedo transformar lo complejo en algo simple.
+
+Me apasiona colaborar con equipos multidisciplinarios y traducir datos en soluciones que realmente resuelvan tanto el problema del usuario como del negocio. 
+
+También me gusta diseñar pensando en cómo se construye, mi background en frontend (HTML, CSS, React) me da esa mirada integral. 
 
 Hoy estoy en búsqueda de nuevos desafíos, aportar valor a un equipo y aprender del mismo.
 
